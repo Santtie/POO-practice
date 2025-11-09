@@ -1,7 +1,7 @@
 # 🧮 Practice No. 3 – Object Oriented Programming  
 **Course:** Programming Languages and Paradigms  
 **Program:** Ingeniería de Sistemas – Universidad EAFIT  
-**Students:** Laura Santamaria and Simon Dìaz
+**Students:** Laura Santamaria and Simon Dìaz 
 **Language:** C++  
 
 ---
@@ -187,3 +187,4 @@ std::cout << "Example prediction: " << preds[0]
 - some IA help for a better looking README :3
 
 ---
+
