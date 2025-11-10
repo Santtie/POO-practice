@@ -1,4 +1,3 @@
-
 #include "LinearRegression.h"
 #include <stdexcept>
 #include <cassert>
@@ -138,3 +137,4 @@ double LinearRegression::score(const std::vector<std::vector<double>>& X, const 
 // --- Getters ---
 std::vector<double> LinearRegression::getWeights() const { return weights; }
 double LinearRegression::getBias() const { return bias; }
+
